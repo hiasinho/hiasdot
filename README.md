@@ -1,4 +1,4 @@
-HiasDot
+#HiasDot
 
 ### My dotfiles
 
