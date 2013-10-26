@@ -1,1 +1,3 @@
 # INSERT YOUR EXPORTS HERE
+
+[ -r "~/.exports" ] && source "~/.exports"
