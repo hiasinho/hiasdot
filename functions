@@ -1,0 +1,5 @@
+function cdr { cd /Volumes/Rails/${1}*; }
+function cdh { cd /Volumes/Hiasinho/${1}*; }
+function gitll { git log ${1}..${2} --pretty=oneline --abbrev-commit; }
+function cucu { cucumber --require features ${1}; }
+function cuco { cucumber debug=open --require features ${1}; }
